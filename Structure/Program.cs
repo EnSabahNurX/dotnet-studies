@@ -1,11 +1,10 @@
 ﻿using System;
-// using EstruturaDoPrograma.Exemplos;
 
-namespace EstruturaDoPrograma
+namespace Structure
 {
     class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {
             var s = new Pilha();
             s.Empilha(1);

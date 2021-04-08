@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ricardo/Git/dotnet/Pilha/Pilha.csproj",
-      "projectName": "Pilha",
-      "projectPath": "/home/ricardo/Git/dotnet/Pilha/Pilha.csproj",
+      "projectUniqueName": "/home/ricardo/Git/dotnet/Structure/Structure.csproj",
+      "projectName": "Structure",
+      "projectPath": "/home/ricardo/Git/dotnet/Structure/Structure.csproj",
       "packagesPath": "/home/ricardo/.nuget/packages/",
-      "outputPath": "/home/ricardo/Git/dotnet/Pilha/obj/",
+      "outputPath": "/home/ricardo/Git/dotnet/Structure/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/ricardo/.nuget/NuGet/NuGet.Config"
