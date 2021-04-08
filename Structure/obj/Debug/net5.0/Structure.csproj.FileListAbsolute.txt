@@ -1,0 +1,16 @@
+/home/ricardo/Git/dotnet/Structure/obj/Debug/net5.0/Structure.csprojAssemblyReference.cache
+/home/ricardo/Git/dotnet/Structure/obj/Debug/net5.0/Structure.GeneratedMSBuildEditorConfig.editorconfig
+/home/ricardo/Git/dotnet/Structure/obj/Debug/net5.0/Structure.AssemblyInfoInputs.cache
+/home/ricardo/Git/dotnet/Structure/obj/Debug/net5.0/Structure.AssemblyInfo.cs
+/home/ricardo/Git/dotnet/Structure/obj/Debug/net5.0/Structure.csproj.CoreCompileInputs.cache
+/home/ricardo/Git/dotnet/Structure/bin/Debug/net5.0/Structure
+/home/ricardo/Git/dotnet/Structure/bin/Debug/net5.0/Structure.deps.json
+/home/ricardo/Git/dotnet/Structure/bin/Debug/net5.0/Structure.runtimeconfig.json
+/home/ricardo/Git/dotnet/Structure/bin/Debug/net5.0/Structure.runtimeconfig.dev.json
+/home/ricardo/Git/dotnet/Structure/bin/Debug/net5.0/Structure.dll
+/home/ricardo/Git/dotnet/Structure/bin/Debug/net5.0/ref/Structure.dll
+/home/ricardo/Git/dotnet/Structure/bin/Debug/net5.0/Structure.pdb
+/home/ricardo/Git/dotnet/Structure/obj/Debug/net5.0/Structure.dll
+/home/ricardo/Git/dotnet/Structure/obj/Debug/net5.0/ref/Structure.dll
+/home/ricardo/Git/dotnet/Structure/obj/Debug/net5.0/Structure.pdb
+/home/ricardo/Git/dotnet/Structure/obj/Debug/net5.0/Structure.genruntimeconfig.cache
