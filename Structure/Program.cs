@@ -14,6 +14,7 @@ namespace Structure
             Console.WriteLine(s.Desempilha());
             Console.WriteLine(s.Desempilha());
             Console.WriteLine(s.Desempilha());
+            Console.WriteLine(s.Desempilha());
         }
     }
 }

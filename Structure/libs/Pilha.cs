@@ -14,7 +14,7 @@ namespace Structure.libs
         {
             if (primeiro == null)
             {
-                throw new InvalidOperationException("A pilha está vazia!");
+                throw new InvalidOperationException("The pile is empty!");
             }
 
             object resultado = primeiro.item;
