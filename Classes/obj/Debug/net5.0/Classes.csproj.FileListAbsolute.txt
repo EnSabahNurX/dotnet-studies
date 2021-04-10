@@ -1,0 +1,16 @@
+/home/ricardo/Git/dotnet/Classes/bin/Debug/net5.0/Classes
+/home/ricardo/Git/dotnet/Classes/bin/Debug/net5.0/Classes.deps.json
+/home/ricardo/Git/dotnet/Classes/bin/Debug/net5.0/Classes.runtimeconfig.json
+/home/ricardo/Git/dotnet/Classes/bin/Debug/net5.0/Classes.runtimeconfig.dev.json
+/home/ricardo/Git/dotnet/Classes/bin/Debug/net5.0/Classes.dll
+/home/ricardo/Git/dotnet/Classes/bin/Debug/net5.0/ref/Classes.dll
+/home/ricardo/Git/dotnet/Classes/bin/Debug/net5.0/Classes.pdb
+/home/ricardo/Git/dotnet/Classes/obj/Debug/net5.0/Classes.csprojAssemblyReference.cache
+/home/ricardo/Git/dotnet/Classes/obj/Debug/net5.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/home/ricardo/Git/dotnet/Classes/obj/Debug/net5.0/Classes.AssemblyInfoInputs.cache
+/home/ricardo/Git/dotnet/Classes/obj/Debug/net5.0/Classes.AssemblyInfo.cs
+/home/ricardo/Git/dotnet/Classes/obj/Debug/net5.0/Classes.csproj.CoreCompileInputs.cache
+/home/ricardo/Git/dotnet/Classes/obj/Debug/net5.0/Classes.dll
+/home/ricardo/Git/dotnet/Classes/obj/Debug/net5.0/ref/Classes.dll
+/home/ricardo/Git/dotnet/Classes/obj/Debug/net5.0/Classes.pdb
+/home/ricardo/Git/dotnet/Classes/obj/Debug/net5.0/Classes.genruntimeconfig.cache
