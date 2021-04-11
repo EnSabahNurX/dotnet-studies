@@ -52,7 +52,28 @@ namespace Revisao
 
                         }
                         var average = total / studentsAmount;
-                        Console.WriteLine($"Total average: {average}");
+                        Concept generalConcept;
+                        if (average <= 2)
+                        {
+                            generalConcept = Concept.E;
+                        }
+                        else if (average <= 4)
+                        {
+                            generalConcept = Concept.D;
+                        }
+                        else if (average <= 6)
+                        {
+                            generalConcept = Concept.C;
+                        }
+                        else if (average <= 8)
+                        {
+                            generalConcept = Concept.B;
+                        }
+                        else
+                        {
+                            generalConcept = Concept.A;
+                        }
+                        Console.WriteLine($"Total average: {average}\nConcept: {generalConcept}");
                         break;
                     default:
                         throw new ArgumentOutOfRangeException();
