@@ -24,5 +24,13 @@ namespace DIO.Bank
             Console.WriteLine("Insuficient Balance");
             return false;
         }
+        this.Balance -= withdrawAmount;
+        Console.WriteLine("The current balance of {0} is {1}", this.Name, this.Balance);
+        return true;
+    }
+    public void Deposit(double depositValor)
+    {
+        this.Balance += depositValor;
+        Console.WriteLine("The current balance of {0} is {1}", this.Name, this.Balance);
     }
 }
